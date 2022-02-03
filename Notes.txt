@@ -1,0 +1,15 @@
+Node.js 
+- JS runtime
+- Build fast, scalable network applications
+- Server-side coding client-side processing
+- uses a non-blocking i/o model and asynchronous programming paradigm (processing  requests in a 
+non-blocking way)
+- built-in streams API that heps in creating applications where data streaming is required
+- NPM Node Package Manager
+- Modularity
+
+- Complex SPA(Single Page Applications)/ Real-time applications/ Daat Streaming applications/ Rest Applications
+- server-side web applications
+
+features of Node.js
+1. V8 engine 
